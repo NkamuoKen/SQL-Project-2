@@ -1,0 +1,25 @@
+1. Retrieve all distinct towns from the table.
+
+2. Find the total number of properties for each state.
+
+3. Calculate the average price of properties in each town.
+
+4. List the top 5 most expensive properties.
+
+5. Retrieve the properties with more than 3 bedrooms and 2 bathrooms.
+
+6. Count the number of properties with parking space in each town.
+
+7. Find the title and price of the cheapest property in each state.
+
+8. Calculate the total number of bedrooms and bathrooms in each town.
+
+9. List the towns where the average property price is above 500,000 naria.
+
+10. Find the properties with the highest price in each state.
+
+11. Calculate the average price of properties with parking space and without parking space.
+
+12. Retrieve the properties with the same number of bedrooms, bathrooms, and toilets.
+
+13. Find the properties with the highest total number of rooms (bedrooms + bathrooms + toilets) in each town.
